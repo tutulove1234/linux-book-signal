@@ -22,7 +22,7 @@
 3. 执行信号处理器程序.
 
 ### 常用信号类型即默认行为
-0.  SIGINT:
+0.  SIGINT: Ctrl-C终端下产生，默认行为：终止当前进程。
 1.  SIGABRT:
 2.  SIGALRM:
 3.  SIGCHLD:
