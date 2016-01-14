@@ -652,6 +652,7 @@ http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index1.html
 
 上述链接共2篇
 
-** 初学者以前两本书为主，当有Linux操作系统知识后可以详细参考后两个链接中内容。十分详实。喵～**
+
+** 初学者以前两本书为主，当有Linux操作系统知识后可以详细参考后两个链接中内容。十分详实。喵～ **
 
 .
