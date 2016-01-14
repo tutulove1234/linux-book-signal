@@ -637,12 +637,21 @@ int siglongjmp ( sigjmp_buf env , int val) ;
 
 
 本章完
+
 参考文献及博客：
+
 《Unix环境高级编程 第三版》
+
 《The Linux Programming Interface》
+
 http://blog.chinaunix.net/uid-24774106-id-4061386.html
+
 上述链接共4篇
+
 http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index1.html
+
 上述链接共2篇
+
 ** 初学者以前两本书为主，当有Linux操作系统知识后可以详细参考后两个链接中内容。十分详实。喵～**
+
 .
